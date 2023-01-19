@@ -17,7 +17,7 @@ define(['N/record'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
-
+            log.debug('test');
         }
 
         /**
